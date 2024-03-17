@@ -38,9 +38,9 @@ Been coding the web for over 5 years now, and building the next big thing is my 
   <img alt="jira" src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" />
 </p>
 <p>
-  <img alt="photoshop" src="https://img.shields.io/badge/Ps-001833.svg?style=flat&logo=adobe%20photoshop&logoColor=2da9ff" />
-  <img alt="illustrator" src="https://img.shields.io/badge/Ai-330000.svg?style=flat&logo=adobe%20illustrator&logoColor=ff9a00" />
-  <img alt="AfterEffects" src="https://img.shields.io/badge/Ae-00005b.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=9a9afc" />
+  <img alt="photoshop" src="https://img.shields.io/badge/PS-001833.svg?style=flat&logo=adobe%20photoshop&logoColor=2da9ff" />
+  <img alt="illustrator" src="https://img.shields.io/badge/AI-330000.svg?style=flat&logo=adobe%20illustrator&logoColor=ff9a00" />
+  <img alt="AfterEffects" src="https://img.shields.io/badge/AE-00005b.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=9a9afc" />
   <img alt="AdobeXD" src="https://img.shields.io/badge/XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6" />
   <img alt="figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
   <img alt="Sketch" src="https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black" />
